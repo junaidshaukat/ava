@@ -254,8 +254,8 @@ This Flutter project utilizes several packages to enhance functionality. Below a
 
 ### Check the UI of the entire app
 
-| <img src="ui/01.png" alt="UI 01" height="200"/> | <img src="ui/02.png" alt="UI 02" height="200"/> | <img src="ui/03.png" alt="UI 03" height="200"/> |
-| :---------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: |
-| <img src="ui/04.png" alt="UI 04" height="200"/> | <img src="ui/05.png" alt="UI 05" height="200"/> | <img src="ui/06.png" alt="UI 06" height="200"/> |
-| <img src="ui/07.png" alt="UI 07" height="200"/> | <img src="ui/08.png" alt="UI 08" height="200"/> | <img src="ui/09.png" alt="UI 09" height="200"/> |
-| <img src="ui/10.png" alt="UI 10" height="200"/> | <img src="ui/11.png" alt="UI 11" height="200"/> |                                                 |
+| <img src="ui/01.png" alt="UI 01" width="360"/> | <img src="ui/02.png" alt="UI 02" width="360"/> | <img src="ui/03.png" alt="UI 03" width="360"/> |
+| :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
+| <img src="ui/04.png" alt="UI 04" width="360"/> | <img src="ui/05.png" alt="UI 05" width="360"/> | <img src="ui/06.png" alt="UI 06" width="360"/> |
+| <img src="ui/07.png" alt="UI 07" width="360"/> | <img src="ui/08.png" alt="UI 08" width="360"/> | <img src="ui/09.png" alt="UI 09" width="360"/> |
+| <img src="ui/10.png" alt="UI 10" width="360"/> | <img src="ui/11.png" alt="UI 11" width="360"/> |                                                |
